@@ -13,10 +13,6 @@
 *.dylib
 *.dll
 
-# Fortran module files
-*.mod
-*.smod
-
 # Compiled Static libraries
 *.lai
 *.la
@@ -27,3 +23,14 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio specific files
+*.VC.db
+*.VC.VC.opendb
+*.pdb
+*.ilk
+
+# log files
+*.log
+*.tlog
+*.lastbuildstate
