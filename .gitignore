@@ -29,6 +29,7 @@
 *.VC.VC.opendb
 *.pdb
 *.ilk
+*.idb
 
 # log files
 *.log
