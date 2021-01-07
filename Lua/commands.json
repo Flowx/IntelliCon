@@ -1,0 +1,5 @@
+{
+	"_comment": "Defines commands and their lengths",
+
+	"0": {"opname": "No Operation", "length": 0}
+}
